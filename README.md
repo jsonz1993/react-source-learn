@@ -9,3 +9,5 @@ react16 源码阅读学习记录
 [React源码系列(一): 总结看源码心得及方法感受](/../../issues/1)
 
 [React源码系列(二): 从jsx到createElement](/../../issues/2)
+
+[React源码系列(三): ReactRoot的创建以及调度工作scheduleWork的执行](/../../issues/3)
