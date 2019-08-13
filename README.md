@@ -15,3 +15,7 @@ react16 源码阅读学习记录
 [React源码系列(四): Fiber Tree && commit](/../../issues/4)
 
 [React源码系列(五): 新 ContextAPI](/../../issues/5)
+
+[React Hooks食用指南(一):Function Component with Class Component](/../../issues/6)
+
+[React Hooks食用指南(二): Use Hooks](/../../issues/7)
