@@ -19,3 +19,5 @@ react16 源码阅读学习记录
 [React Hooks食用指南(一):Function Component with Class Component](/../../issues/6)
 
 [React Hooks食用指南(二): Use Hooks](/../../issues/7)
+
+[React Hooks食用指南(三): useEffect 与实践](/../../issues/8)
